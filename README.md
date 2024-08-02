@@ -29,6 +29,8 @@ Source Data is available in the form of [csv files](https://github.com/krishuGIT
 ![image](https://github.com/krishuGIT/PowerBi-Sales-Analysis/blob/main/Other%20Files/Data%20Model.png)
 ### DAX Measures
 Following are some of the DAX measures :
-[Measure 1]
+- [Measure 1](https://github.com/krishuGIT/PowerBi-Sales-Analysis/blob/main/Other%20Files/DAX%201.png)
+- [Measure 2](https://github.com/krishuGIT/PowerBi-Sales-Analysis/blob/main/Other%20Files/DAX%202.png)
+- [Measure 3](https://github.com/krishuGIT/PowerBi-Sales-Analysis/blob/main/Other%20Files/DAX%203.png)
 
 
