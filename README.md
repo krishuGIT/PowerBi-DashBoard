@@ -7,4 +7,10 @@
 
 ### Project Overview
 ---
-This data analysis project aims to provide insights into the sales performance of an e-commerce company over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the company's performance.
+This data analysis project aims to provide insights into the sales performance of a global manufacturing company that produces cycling equipment and accessories. 
+
+The objective of this project is to :
+•	track KPIs(sales, revenue, profit and returns) 
+•	Compare regional performance
+•	Analyze product-level trends
+•	Identify high-value Customers
