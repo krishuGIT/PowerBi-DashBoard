@@ -16,3 +16,4 @@ The objective of this project is to :
 -	Identify high-value Customers
 
 ### Data Sources
+Data was available in the form of csv files.
