@@ -16,5 +16,5 @@ The objective of this project is to :
 -	Identify high-value Customers
 
 ### Data Sources
-Data was available in the form of [csv files](https://github.com/krishuGIT/PowerBi-Sales-Analysis/tree/main/Data%20Source)
+Source Data is available in the form of [csv files](https://github.com/krishuGIT/PowerBi-Sales-Analysis/tree/main/Data%20Source)
 
