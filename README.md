@@ -32,5 +32,7 @@ Following are some of the DAX measures that were created :
 - [Measure 1](https://github.com/krishuGIT/PowerBi-Sales-Analysis/blob/main/Other%20Files/DAX%201.png)
 - [Measure 2](https://github.com/krishuGIT/PowerBi-Sales-Analysis/blob/main/Other%20Files/DAX%202.png)
 - [Measure 3](https://github.com/krishuGIT/PowerBi-Sales-Analysis/blob/main/Other%20Files/DAX%203.png)
-
+### Using Report View
+Following Dashboards are built
+- 
 
