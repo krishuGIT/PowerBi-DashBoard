@@ -38,5 +38,5 @@ Following Dashboards are built
 </br>
 ![image](https://github.com/krishuGIT/PowerBi-Sales-Analysis/blob/main/Other%20Files/Customer%20Report.png)
 
-![image](https://github.com/krishuGIT/PowerBi-Sales-Analysis/blob/main/Other%20Files/Product%20Detail.png)
+![image](https://github.com/krishuGIT/PowerBi-Sales-Analysis/blob/main/Other%20Files/Product.png)
 
